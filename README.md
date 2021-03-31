@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rodolfo
-- 👀 I’m interested in learn about Frontend Developing
+- 👀 I’m interested in learn about Frontend Development
 - 🌱 I’m currently learning Javascript
 
 
