@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Rodolfo
-- 👀 I’m looking for a front-end job
-- 🌱 I’m currently learning Javascript and React.
+- 👋 Hello! Welcome to my Github profile.
+- My name is Rodolfo.
+- 👀 I’m looking for a front-end job.
 
+
+### Currently practicing 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+          
+          
 
 <!---
 - 💞️ I’m looking to collaborate on ...
