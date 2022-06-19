@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodolfo
-- 👀 I’m interested in learn about Frontend Development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m looking for a front-end job
+- 🌱 I’m currently learning Javascript and React.
 
 
 <!---
